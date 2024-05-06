@@ -1,4 +1,6 @@
-﻿class Program
+﻿// Задача 1: Проверка кратности числа 7 и 23
+
+class Program
 {
     static void Main()
     {
